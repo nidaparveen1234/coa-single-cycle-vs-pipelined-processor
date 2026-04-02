@@ -16,8 +16,8 @@ The objective of this project is to understand how instructions are executed in 
 
 ## Repository Contents
 - **Coa_report/** – Detailed project report including explanation, diagrams, and screenshots
-- **Presentations/** – PPT slides used for project presentation
-- **Code/** – Source code used in the Ripes simulation
+- **Comparative Analysis of Single Cycle and 5-Stage P_260324_220801/** – PPT slides used for project presentation
+- **Source_code/** – Source code used in the Ripes simulation
 
 ## Learning Outcome
 This project helped me understand how pipelining improves processor throughput and how multiple instructions can be executed simultaneously at different stages of the pipeline.
