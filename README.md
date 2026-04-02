@@ -15,7 +15,7 @@ The objective of this project is to understand how instructions are executed in 
 - RISC-V simulation using the Ripes processor simulator
 
 ## Repository Contents
-- **Report/** – Detailed project report including explanation, diagrams, and screenshots
+- **Coa_report/** – Detailed project report including explanation, diagrams, and screenshots
 - **Presentations/** – PPT slides used for project presentation
 - **Code/** – Source code used in the Ripes simulation
 
